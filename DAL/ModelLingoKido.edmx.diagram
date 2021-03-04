@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="88a2dfbd934c49398754d29a635b0e5a" Name="Diagram1">
+        <EntityTypeShape EntityType="LingoKidoModel.Log" Width="1.5" PointX="0.75" PointY="0.75" />
+        <EntityTypeShape EntityType="LingoKidoModel.Room" Width="1.5" PointX="2.75" PointY="0.75" />
+        <EntityTypeShape EntityType="LingoKidoModel.Slide" Width="1.5" PointX="0.75" PointY="3.75" />
+        <EntityTypeShape EntityType="LingoKidoModel.User" Width="1.5" PointX="2.75" PointY="3.75" />
+        <EntityTypeShape EntityType="LingoKidoModel.Lesson" Width="1.5" PointX="4.75" PointY="0.75" />
+        <EntityTypeShape EntityType="LingoKidoModel.Teacher" Width="1.5" PointX="4.75" PointY="3.75" />
+        <EntityTypeShape EntityType="LingoKidoModel.Shop" Width="1.5" PointX="7.375" PointY="0.75" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
